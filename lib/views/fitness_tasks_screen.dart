@@ -38,7 +38,7 @@ class _FitnessTasksScreenState extends State<FitnessTasksScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("weeklyFitnessTasks".tr)),
+      appBar: AppBar(title: Text("appBarWeeklyFitnessTasks".tr)),
       body: Container(
         decoration: BoxDecoration(
           image: Theme.of(context).brightness == Brightness.light
