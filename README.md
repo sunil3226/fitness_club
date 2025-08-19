@@ -1,16 +1,48 @@
-# fitness_club
+# Fitness Club - Flutter App
 
-A new Flutter project.
+Welcome to **Fitness Club**, a clean and user-friendly Flutter app to create and track your weekly workout plans with easy task management. Stay motivated and organized on your fitness journey with smooth navigation, local storage, and multi-language support!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎮 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Create and customize **weekly workout plans**  
+- Track daily fitness tasks with **interactive checkboxes**  
+- Persistent local storage using **SharedPreferences**  
+- Beautiful light/dark themes with background images  
+- Multilingual support (English and Spanish) using **GetX**  
+- Reactive UI powered by **GetX state management**  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- Flutter & Dart — cross-platform UI  
+- GetX — state management, routing, and localization  
+- SharedPreferences — local data persistence  
+- Android Studio — development IDEs  
+
+---
+
+## 🧩 How It Works
+
+- Open the app to see your weekly workout plan.  
+- Add workouts to specific days using the intuitive dropdown menus.  
+- Check off completed tasks to track your progress daily.  
+- Your workout plan and task completion are saved locally and restored on app restart.  
+- Switch languages seamlessly to view the app in your preferred language.  
+
+---
+
+## 📫 Contact
+
+Feel free to reach out for feedback, contributions, or questions!
+
+- **Author:** Sunil  
+- **GitHub:** [Sunil3226](https://github.com/Sunil3226)  
+
+---
+
+Thank you for checking out Fitness Club! Stay active and healthy! 💪
+
+<h2 align="center">✨ Happy Fitness Journey!</h2>
