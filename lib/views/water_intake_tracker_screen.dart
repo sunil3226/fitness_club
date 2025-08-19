@@ -10,7 +10,7 @@ class WaterIntakeTrackerScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("waterIntakeTracker".tr)),
+      appBar: AppBar(title: Text("appBarWaterIntakeTracker".tr)),
       body: Container(
         decoration: BoxDecoration(
           image: Theme.of(context).brightness == Brightness.light

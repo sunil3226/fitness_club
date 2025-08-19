@@ -44,7 +44,7 @@ class HomeScreen extends StatelessWidget {
                     Get.toNamed(Routes.WATERINTAKETRACHER);
                   },
                   style: customButtonStyle(),
-                  child: Text("waterIntakeTracker".tr),
+                  child: Text("btnBarWaterIntakeTracker".tr),
                 ),
               ),
               SizedBox(
@@ -64,7 +64,7 @@ class HomeScreen extends StatelessWidget {
                     Get.toNamed(Routes.FITNESSTASKS);
                   },
                   style: customButtonStyle(),
-                  child: Text("weeklyFitnessTasks".tr),
+                  child: Text("btnWeeklyFitnessTasks".tr),
                 ),
               ),
             ],

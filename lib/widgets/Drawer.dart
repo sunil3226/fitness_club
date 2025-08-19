@@ -59,7 +59,7 @@ class CustomDrawer extends StatelessWidget {
           ),
           ListTile(
             leading: Icon(Icons.local_drink),
-            title: Text("waterIntakeTracker".tr),
+            title: Text("btnBarWaterIntakeTracker".tr),
             trailing: Icon(Icons.arrow_forward_ios_outlined),
             onTap: () {
               Get.toNamed(Routes.WATERINTAKETRACHER);
@@ -75,7 +75,7 @@ class CustomDrawer extends StatelessWidget {
           ),
           ListTile(
             leading: Icon(Icons.checklist),
-            title: Text("weeklyFitnessTasks".tr),
+            title: Text("btnWeeklyFitnessTasks".tr),
             trailing: Icon(Icons.arrow_forward_ios_outlined),
             onTap: () {
               Get.toNamed(Routes.FITNESSTASKS);

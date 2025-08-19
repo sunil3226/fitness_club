@@ -31,6 +31,8 @@ class LanguageTranslation extends Translations {
     "btnAddToPlan": "Add to Plan",
     "buttonOk": "Ok",
     "save": "Save",
+    "btnWeeklyFitnessTasks": "Weekly Fitness Tasks",
+    "btnBarWaterIntakeTracker": "Water Intake Tracker",
 
     // BMI
     "checkYourBMI": "Check your BMI",
@@ -121,6 +123,8 @@ class LanguageTranslation extends Translations {
     "btnAddToPlan": "Agregar al plan",
     "buttonOk": "Aceptar",
     "save": "Guardar",
+    "btnWeeklyFitnessTasks": "Tareas de Fitness Semanales",
+    "btnBarWaterIntakeTracker": "Registro de Consumo de Agua",
 
     // BMI
     "checkYourBMI": "Revisa tu IMC",
